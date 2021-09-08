@@ -1,0 +1,18 @@
+<html>
+    <head></head>
+    <body>
+
+        <iframe src="https://mindmup.github.io/3rdpartycookiecheck/start.html" style="display:none;"></iframe>
+
+        <script>
+             window.addEventListener("message", (evt) => {
+               if (evt.data === 'MM:3PCunsupported') {
+                    window.parent.postMessage('unsupported', '*');
+               } else if (evt.data === 'MM:3PCsupported') {
+                    window.parent.postMessage('supported', '*');
+               }
+             }, false);
+        </script>
+        
+    </body>
+</html>
