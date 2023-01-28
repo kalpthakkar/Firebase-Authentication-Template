@@ -1,2 +1,2 @@
-# Firebase-Authentication-Template
-Built Signup &amp; Login &amp; Logout functionality with login via social accounts (Google, Facebook, GitHub) in React JS. Also implemented error handling incase third-party cookies are block on client side with a guiding response.
+Committed on 2023-01-28T12:33:25 
+Committer - https://github.com/kalpthakkar/Firebase-Authentication-Template
