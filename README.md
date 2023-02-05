@@ -1,2 +1,2 @@
-Committed on 2023-01-28T12:40:11 
+Committed on 2023-02-05T12:06:16 
 Committer - https://github.com/kalpthakkar/Firebase-Authentication-Template
